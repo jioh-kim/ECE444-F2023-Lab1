@@ -9,6 +9,5 @@ def index():
 def user(Jioh):
     return '<h1>Hello, %s!</h1>' % Jioh
 
-
 if __name__ == '__main__':
     app.run(debug=True)
