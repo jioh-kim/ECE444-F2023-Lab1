@@ -12,14 +12,19 @@ Activity 1:
 
 Activity 2
 
-<img width="612" alt="Screenshot 2023-09-18 at 9 36 20 PM" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/0f79bffc-1452-43f6-ad7d-a9a316e7aa53">
+<img width="582" alt="Screenshot 2023-09-18 at 9 36 20 PM" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/0f79bffc-1452-43f6-ad7d-a9a316e7aa53">
 
-<img width="342" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/90f09be4-fcaf-428c-a87a-2276e916824a">
-
-<img width="340" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/67c08417-dde5-4e74-81d7-6cd2b296cbeb">
+<img width="582" alt="Screenshot 2023-09-18 at 9 51 56 PM" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/fc264558-4d58-49c2-baa9-04c2233806ff">
 
 
 ***
+
+Activity 3
+
+<img width="568" alt="Screenshot 2023-09-19 at 10 30 26 AM" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/ecd93947-c693-4ac2-ba24-e50b23907213">
+
+<img width="568" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/ec714efa-0d18-478b-95c7-8b9b84b94ea5">
+
 
 
 
