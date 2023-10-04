@@ -26,6 +26,8 @@ Activity 2:
 
 Activity 3:
 
+<img width="1106" alt="Screenshot 2023-10-03 at 10 42 31 PM" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/d5a22926-9460-47fe-b38d-82ebdd29ed44">
+
 
 ***
 
