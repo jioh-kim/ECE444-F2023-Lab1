@@ -13,7 +13,8 @@ Lab 3 Branch
 Activity 1:
 
 Pushing Lab3 branch, making it into the default branch and cleaning up README.md file.
-<img width="407" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/e0b89cbd-fd7a-4249-b266-7f0fb8a8ab3d">
+<img width="748" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/99dd8218-068e-45f8-acfb-a6155d9e746d">
+
 
 
 ***
