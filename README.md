@@ -33,7 +33,7 @@ Activity 3:
 
 Activity 4:
 
-![Screenshot 2023-10-03 at 10 52 20 PM](https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/cf116fa9-510f-4104-98c0-fd3f7f899d08)
+<img width="1165" alt="image" src="https://github.com/jioh-kim/ECE444-F2023-Lab1/assets/77854386/666e38c0-5328-4fb8-a3f1-98b4ca5cd77d">
 
 
 
